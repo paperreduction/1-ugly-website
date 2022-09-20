@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: #FFF url(https://saltandbaker.com/wp-content/uploads/2020/12/How-to-Cook-Bacon-in-the-Oven-2.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+/* My Page Styles */
+.hero h1{
+    color: #445FCD;
+    font-size: 60px;
+}
+
+#intro{
+    color: #9C27B0;
+    font-size: 10px;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+}
+
+li{
+    list-style: none;
+}
+
+.link{
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+}
+
+.link a{
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+}
